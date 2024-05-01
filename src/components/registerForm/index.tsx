@@ -107,7 +107,7 @@ function RegistrationForm() {
                     />
                     <div className="text-red-500">
                       <ErrorMessage
-                        className="text-red-500 text-xs"
+                        className="text-red-500 text-sm"
                         name="userName"
                       />
                     </div>
@@ -127,7 +127,7 @@ function RegistrationForm() {
                     />
                     <div className="text-red-500">
                       <ErrorMessage
-                        className="text-red-500 text-xs"
+                        className="text-red-500 text-sm"
                         name="email"
                       />
                     </div>
@@ -164,7 +164,7 @@ function RegistrationForm() {
                     />
                     <div className="text-red-500">
                       <ErrorMessage
-                        className="text-red-500 text-xs"
+                        className="text-red-500 text-sm"
                         name="password"
                       />
                     </div>
@@ -205,7 +205,7 @@ function RegistrationForm() {
                     />
                     <div className="text-red-500">
                       <ErrorMessage
-                        className="text-red-500 text-xs"
+                        className="text-red-500 text-sm"
                         name="confirmPassword"
                       />
                     </div>
