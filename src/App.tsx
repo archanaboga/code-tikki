@@ -4,6 +4,7 @@ import RegistrationForm from "./components/registerForm";
 function App() {
   return (
     <>
+      {/* NEED TO ADD ROUTING */}
       <RegistrationForm />
     </>
   );
